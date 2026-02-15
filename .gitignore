@@ -55,3 +55,6 @@ docs/*
 *.su
 *.idb
 *.pdb
+
+# MacOs
+/.DS_Store
